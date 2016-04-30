@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestJar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../UseJavaAssist/libs/TestJar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

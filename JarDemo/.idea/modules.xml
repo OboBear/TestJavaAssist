@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JarDemo.iml" filepath="$PROJECT_DIR$/JarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UseJavaAssist/UseJavaAssist.iml" filepath="$PROJECT_DIR$/../UseJavaAssist/UseJavaAssist.iml" />
+    </modules>
+  </component>
+</project>
